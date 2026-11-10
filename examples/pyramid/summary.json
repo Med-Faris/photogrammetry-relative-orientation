@@ -1,0 +1,32 @@
+{
+  "images": 23,
+  "image_size": [
+    1200,
+    1600
+  ],
+  "focal_px": 1201.6,
+  "pairs_matched": 253,
+  "cameras_registered": 23,
+  "points_3d": 4973,
+  "points_clean": 4724,
+  "mean_reprojection_error_px": 0.522,
+  "runtime_s": 12.2,
+  "options": {
+    "pair_gap": 0,
+    "step": 1,
+    "max_size": null,
+    "focal_px": 3028.0,
+    "ref_size": [
+      3024,
+      4032
+    ],
+    "ratio": 0.75,
+    "ransac_px": 1.0,
+    "max_reproj": 4.0,
+    "min_angle": 1.0,
+    "no_ba": false,
+    "keep_percentile": 95.0,
+    "save_matches": 0,
+    "quiet": true
+  }
+}

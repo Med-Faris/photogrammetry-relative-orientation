@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# outputs of reconstruct.py (except the curated examples in examples/)
+results/
+# full-resolution photo sets are too large for git
+data/raw/
+.ruff_cache/
